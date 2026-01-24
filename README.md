@@ -10,7 +10,7 @@
 
 ## 📚 Projects
 
-- [Eclipse](https://github.com/LightCircleLLC/Eclipse) `Founder` `Lead Developer` — Main project. Automation frameworks for Discord.
+- [Eclipse](https://github.com/LightCircleLLC/Eclipse) `Founder` `Lead Developer` — Main project. Automation project using no-code platforms.
 - [Luna](https://github.com/LightCircleLLC/Luna) `Founder` `Principal Systems Administrator` - Eclipse subproject. Distributed computing project.
 - [Sol](https://github.com/LightCircleLLC/Sol) `Founder` `Principal Author` - Eclipse subproject. University coursework repository.
 - [Anima](https://github.com/LightCircleLLC/Anima) `Founder` `Principal Contributor` - Eclipse subproject. Social media network project.
