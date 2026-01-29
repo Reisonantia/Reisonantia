@@ -10,10 +10,10 @@
 
 ## 📚 Projects
 
-- [Eclipse](https://github.com/LightCircleLLC/Eclipse) `Founder` `Lead Developer` — Main project. Automation project using no-code platforms.
-- [Luna](https://github.com/LightCircleLLC/Luna) `Founder` `Principal Systems Administrator` - Eclipse subproject. Distributed computing project.
-- [Sol](https://github.com/LightCircleLLC/Sol) `Founder` `Principal Author` - Eclipse subproject. University coursework repository.
-- [Anima](https://github.com/LightCircleLLC/Anima) `Founder` `Principal Contributor` - Eclipse subproject. Social media network project.
+- [Eclipse](https://github.com/LightCircleLLC/Eclipse) `Founder` — Main project. Automation project using no-code platforms.
+- [Luna](https://github.com/LightCircleLLC/Luna) `Founder` - Eclipse subproject. Distributed computing project.
+- [Sol](https://github.com/LightCircleLLC/Sol) `Founder` - Eclipse subproject. University coursework repository.
+- [Anima](https://github.com/LightCircleLLC/Anima) `Founder` - Eclipse subproject. Social media network project.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 <p align="center">
